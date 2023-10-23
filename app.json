@@ -18,11 +18,11 @@
     },
     "REPO_URL": {
       "description": "https://github.com/Rahulboss063/Lund",
-      "value": ""
+      "value": "https://github.com/Rahulboss063/Lund"
     },
     "PYTHON_FILE": {
       "description": "main.py",
-      "value": ""
+      "value": "main.py"
     },
      "OTHER_CMD": {
       "description": "If you need to run any bash command other than python specify here",
