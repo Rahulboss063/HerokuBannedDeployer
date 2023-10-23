@@ -17,11 +17,11 @@
       "required": false
     },
     "REPO_URL": {
-      "description": "URL of the REPO that you want to deploy.",
+      "description": "https://github.com/Rahulboss063/Lund",
       "value": ""
     },
     "PYTHON_FILE": {
-      "description": "Name of the python file that you need to run. [use -m if you need to run __main__.py from a folder]",
+      "description": "main.py",
       "value": ""
     },
      "OTHER_CMD": {
